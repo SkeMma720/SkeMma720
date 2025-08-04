@@ -17,40 +17,33 @@ OS: Pop!OS (GNOME)
 ╰────────----------------------------───────────╯
 
 ```
-
 <table>
-<td>
-<p align="center"> 
-<img src="https://github.com/user-attachments/assets/af511205-787a-49ee-8a97-01ba190ba558" alt="gif" align="left" width="50%" height="50%">
-	
-<br /> <br />
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github.com/user-attachments/assets/af511205-787a-49ee-8a97-01ba190ba558" alt="gif" width="90%">
 
 </td> 
-<td>
+<td width="50%">
 
 ## <div align="center" color="White">Quote <img src="https://upload-os-bbs.hoyolab.com/upload/2025/05/01/14420544/e18b7e6d40e635321426c89df2ceede3_5394659702800551523.gif" alt="anaxa" height="85" width="100"></div>
-
-
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 	
 ## <div align="center" color="White">Languages and tools <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/Sticker_PPG_22_Anaxa_01.png/revision/latest?cb=20250409060059" alt="anaxa" height="85" width="100"></div>
 
-
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> <a href="https://replit.com/" > </a>
-  <a href="https://www.sqlite.org/" > <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.latex-project.org/" > <img src="https://img.icons8.com/fluency/48/undefined/texshop.png" alt="latex" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org/" > <img src="https://img.icons8.com/color/48/undefined/postgreesql.png" alt="postgreesql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/doc" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png" height="40" width="80"></a>	
-<p align="center">
+  <a href="https://www.latex-project.org/"> <img src="https://img.icons8.com/fluency/48/undefined/texshop.png" alt="latex" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org/"> <img src="https://img.icons8.com/color/48/undefined/postgreesql.png" alt="postgreesql" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/doc" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png" height="40" width="80"></a>
+</p>
 
-</a>
 </td>
-<br/>
-
 </tr>
 </table>
 
