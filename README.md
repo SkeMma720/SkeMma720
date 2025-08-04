@@ -5,7 +5,7 @@
 ```zsh
 SkeMma720@Amphoreus: ~/my_readme $ neofetch
 ```
-<img src="https://upload-os-bbs.hoyolab.com/upload/2025/05/01/14420544/87b293e7bd8a1d678e6d6880c7900a76_7493719585296018084.gif" alt="anaxa" align="left" width="20%" height="500%">
+<img src="https://upload-os-bbs.hoyolab.com/upload/2025/05/01/14420544/87b293e7bd8a1d678e6d6880c7900a76_7493719585296018084.gif" alt="anaxa" align="left" width="30%" height="500%">
 
 ```csharp
 -------------------------------------------------
@@ -19,12 +19,12 @@ OS: Pop!OS (GNOME)
 ```
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="40%" align="center">
 
 <img src="https://github.com/user-attachments/assets/af511205-787a-49ee-8a97-01ba190ba558" alt="gif" width="90%">
 
 </td> 
-<td width="50%">
+<td width="60%">
 
 ## <div align="center" color="White">Quote <img src="https://upload-os-bbs.hoyolab.com/upload/2025/05/01/14420544/e18b7e6d40e635321426c89df2ceede3_5394659702800551523.gif" alt="anaxa" height="85" width="100"></div>
 
