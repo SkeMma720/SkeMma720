@@ -21,7 +21,7 @@ OS: Pop!OS (GNOME)
 <tr>
 <td width="40%" align="center">
 
-<img src="https://github.com/user-attachments/assets/af511205-787a-49ee-8a97-01ba190ba558" alt="gif" width="90%">
+<img src="https://github.com/user-attachments/assets/af511205-787a-49ee-8a97-01ba190ba558" alt="gif" width="100%">
 
 </td> 
 <td width="60%">
