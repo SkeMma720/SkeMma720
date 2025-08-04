@@ -19,12 +19,12 @@ OS: Pop!OS (GNOME)
 ```
 <table>
 <tr>
-<td width="40%" align="center">
+<td width="45%" align="center">
 
 <img src="https://github.com/user-attachments/assets/af511205-787a-49ee-8a97-01ba190ba558" alt="gif" width="100%">
 
 </td> 
-<td width="60%">
+<td width="55%">
 
 ## <div align="center" color="White">Quote <img src="https://upload-os-bbs.hoyolab.com/upload/2025/05/01/14420544/e18b7e6d40e635321426c89df2ceede3_5394659702800551523.gif" alt="anaxa" height="85" width="100"></div>
 
